@@ -482,7 +482,7 @@ A woman taking a selfie under a tree
 }
 ```
 25. Selecionado o arquivo paisagem.jpg;<br>
-<img src=inputs/paisagem.jpg width=200><br>
+<img src=inputs/paisagem.JPG width=200><br>
 23. Resultado apresentado: 
 A forest of trees and mountains
 24. Json gerado: 
