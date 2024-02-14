@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "bb897392-f32f-4524-8a0d-24ba04985a31",
+  "content-length": "158",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a forest of trees and mountains",
+    "confidence": 0.70673668384552
+  },
+  "metadata": {
+    "width": 4860,
+    "height": 3888
+  }
+}

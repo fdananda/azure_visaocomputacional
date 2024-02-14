@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "378fdfa3-dded-4628-bf4c-8e2b804719c5",
+  "content-length": "165",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a woman taking a selfie under a tree",
+    "confidence": 0.7918692827224731
+  },
+  "metadata": {
+    "width": 1426,
+    "height": 1426
+  }
+}
